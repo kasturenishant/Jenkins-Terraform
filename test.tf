@@ -11,7 +11,6 @@ terraform {
   required_version = ">=0.13"
 }
 
-
 provider "aws" {
   region     = "ca-central-1"
 }
